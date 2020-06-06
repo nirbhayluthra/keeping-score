@@ -1,0 +1,39 @@
+.winner{
+    color: green;
+}
+body{
+    background-color:rgb(238, 196, 203);
+}
+
+body{
+    text-align: center;
+    margin-top: 100px;
+}
+.hh{
+    font-size: xx-large;
+    font-weight: bolder;
+    color: rgb(31, 31, 197);
+    font-style: italic;
+    font-size: 4em;
+}
+#p1{
+    color: yellow;
+    background-color: black;
+    margin: 2px;
+}
+#p2{
+    color: yellow;
+    background-color: black;
+    margin: 2px;
+}
+#p3{
+    color: white;
+    background-color:green;
+    margin: 2px;
+}
+p{
+    font-size: large;
+}
+h1{
+    font-size: 4rem;
+}
